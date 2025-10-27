@@ -18,10 +18,10 @@ The data is organized into multiple sheets for clarity:
 ---
 
 ## Current Visualizations
-**Debt Ratio (2005-2023):** Trends in debt levels across Canada and Ontario
-**Net Worth of Assets:** Comparison of wealthy by age group
-**Age-Based Comparison:** Highlights differences between under 35, over 65, and all ages
-*(Upcoming: Line chart visualization and slicers for interactive filtering)*
+**Debt Ratio (2005-2023):** Trends in debt levels across Canada and Ontario <br>
+**Net Worth of Assets:** Comparison of wealthy by age group <br>
+**Age-Based Comparison:** Highlights differences between under 35, over 65, and all ages <br>
+*(Upcoming: Line chart visualization and slicers for interactive filtering)* <br>
 
 ---
 
